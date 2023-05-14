@@ -2,7 +2,8 @@
 Hacer una función que reciba un texto y una búsqueda, si la búsqueda coincide en el texto, 
 censurar todas las coincidencias con la palabra ***Censurado***.
 Si el texto o la búsqueda están vacíos, mostrar un mensaje “No puedes leer el texto y la búsqueda”
-
+Ejemplo:
+censurarFrase("Hola mundo desde python", "mundo")//Devuelve: Hola ***Censurado*** desde python.
 """
 
 def censurarFrase(texto, busqueda):

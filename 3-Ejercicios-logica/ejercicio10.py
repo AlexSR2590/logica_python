@@ -1,7 +1,7 @@
 """
 Hacer una función que reciba un número y devuelva una escalera 
 con el número de niveles que recibe la función como parámetro con los caracteres siguientes "[-]". 
-Ejemplo
+Ejemplo:
 construirEscalera(4)//Devuleve:
 [--]
 [--][--]

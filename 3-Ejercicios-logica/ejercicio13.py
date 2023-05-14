@@ -1,7 +1,7 @@
 """
 Crear una función que reciba un arreglo de números y un número, 
 la función debe devolver un arreglo dividido en la cantidad de partes por el número proporcionado.
-Ejemplo.
+Ejemplo:
 dividirArreglo([1, 2, 3, 4], 2)//Devolver: [1,2][3,4]
 dividirArreglo([1, 2, 3, 4, 5], 2)//Devolver: [1,2][3,4][5]
 dividirArreglo([1, 2, 3, 4, 5, 6], 2)//Devolver: [1,2][3,4][5,6]

@@ -1,7 +1,7 @@
 """
 Dado dos números, hacer una función que reciba como parámetro 
 los dos números y que devuelva la cantidad de números impares entre esos números.
-Ejemplo.
+Ejemplo:
 contarImpares(1, 25)//Devuelve: 13 números impares
 """
 import math

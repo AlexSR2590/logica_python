@@ -1,8 +1,10 @@
 """
 Dada una cadena de texto, devolver el caracter más usado.
-
+Ejemplo:
+contarLetrasRepetidas()
 """
 def contarLetrasRepetidas(texto):
+    texto = texto.lower()
     texto = texto.replace(" ","")
     list(texto)
     letras = {letra: texto.count(letra) for letra in texto}

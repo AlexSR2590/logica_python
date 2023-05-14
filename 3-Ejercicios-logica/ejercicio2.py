@@ -2,7 +2,7 @@
 Hacer una función que reciba una palabra y nos devuelva si es un palíndromo, 
 la función no debe tener en cuenta espacios en blancos ni símbolos o números.
 
-Ejemplo
+Ejemplo:
 palindromo("bob") // Es palíndromo
 palindromo("Hola")// No es palíndromo
 """

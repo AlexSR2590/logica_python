@@ -1,7 +1,7 @@
 """
 De una cadena de texto, invertir el orden de sus caracteres, 
 sin usar métodos propios del lenguaje, únicamente estructuras de control.
-Ejemplo.
+Ejemplo:
 invertirTexto("soy un texto")//Devuelve: otxet nu yos
 """
 
@@ -11,5 +11,7 @@ def invertirTexto(texto):
         texto_invertido += caracter
     return texto_invertido
 
-texto = "Invertir el texto"
+#texto = "Invertir el texto"
+texto = "Alexis Arturo Solis Rodriguez"
+
 print(invertirTexto(texto))

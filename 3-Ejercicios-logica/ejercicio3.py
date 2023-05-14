@@ -1,7 +1,7 @@
 """
 Hacer una función que reciba dos parámetros, palabra y frase, 
 la función debe devolver el número de veces que se repite la palabra en esa frase.
-Ejemplo.
+Ejemplo:
 buscarPalabra("esto es una frase", "frase") //Devuelve 1, por el número de veces encontrado la palabra "frase"
 buscarPalabra("esto es una frase", "sol")// Devuelve 0, no se encontró la palabra "sol" en la frase
 """

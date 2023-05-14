@@ -1,6 +1,6 @@
 """
 Hacer una función que reciba un número entero y que lo invierta y devuelva el número entero.
-Ejemplo.
+Ejemplo:
 invertirNumero(152)//Devuelve: 251
 """
 def invertirNumero(cifra):

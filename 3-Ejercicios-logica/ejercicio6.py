@@ -1,7 +1,7 @@
 """
 Dibujar un cuadrado hueco con asteriscos (*)
 el número de * por lado lo debe de recibir la función como parámetro.
-Ejemplo.
+Ejemplo:
 cuadrado(5)//Devuleve.
 *****
 *   *

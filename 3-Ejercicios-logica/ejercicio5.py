@@ -1,6 +1,6 @@
 """
 Hacer una función que reciba dos números y que devuelva un mensaje, el x porciento de x número es : x.
-Ejemplo
+Ejemplo:
 25% de 350
 porcentaje(25,350)//Devuelve: "El 25% de 350 es : 87.5
 """
