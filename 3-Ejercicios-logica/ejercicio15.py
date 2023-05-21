@@ -1,7 +1,7 @@
 """
 Dada una cadena de texto, devolver el caracter más usado.
 Ejemplo:
-contarLetrasRepetidas()
+nombreFuncion("hola mundo desde python")//Devuelve: ['o', 'd']
 """
 def contarLetrasRepetidas(texto):
     texto = texto.lower()

@@ -1,14 +1,14 @@
 """
 Dado un número, hacer una función que devuelva el tipo de ángulo que es.
 Ejemplo:
-nombreFuncion("75")//Devuelve: Introduce valores correctos.
+nombreFuncion("75")//Devuelve: Introduce valores enteros.
 nombreFuncion(79)//Devuelve: 79° Ángulo agudo.
 """
 
 def obtenerTipoAngulo(valor_angulo):
     resultado = ""
     if not isinstance(valor_angulo, int) or valor_angulo > 360 or valor_angulo < 0:
-        resultado ="Introduce valores correctos."
+        resultado ="Introduce valores enteros."
     elif valor_angulo >= 0 and valor_angulo < 90:
         resultado =f"{valor_angulo}° Ángulo agudo"
     elif valor_angulo == 90:
